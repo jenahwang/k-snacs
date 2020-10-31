@@ -1,2 +1,2 @@
-# k-snacs-dataset
-K-SNACS dataset
+# k-snacs
+K-SNACS dataset and guidelines
