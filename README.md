@@ -7,13 +7,13 @@
 
 **Column Description:**
 * <tt>doc_id</tt>: chapter number, starts at 1
-* sent_id: sentence id, starts at 1
-* token_id: token id, starts 1. Stacked postpositions receive token_id-N designation, where N is a sequencial value starting at 1 (as an example see doc_id 1, sent_id 14, token_id 1).
-* form: token raw form
-* morph: morphological analysis obtained from KOMA Tagger (REF). 
-* p: postposition
-* gold_scene: gold adjudicated scene role label
-* gold_function: gold adjudicated function label
+* <tt>sent_id</tt>: sentence id, starts at 1
+* <tt>token_id</tt>: token id, starts 1. Stacked postpositions receive token_id-N designation, where N is a sequencial value starting at 1 (as an example see doc_id 1, sent_id 14, token_id 1).
+* <tt>form</tt>: token raw form
+* <tt>morph</tt>: morphological analysis obtained from KOMA Tagger (REF). 
+* <tt>p</tt>: postposition
+* <tt>gold_scene</tt>: gold adjudicated scene role label
+* <tt>gold_function</tt>: gold adjudicated function label
 
 ## Guidelines
 
