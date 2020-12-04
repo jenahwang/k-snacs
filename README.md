@@ -35,14 +35,11 @@ Please cite the following when using this data:
 * Hanwool Choe - Georgetown University
 * [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/) - Georgetown University
 
-### Topic Specific Discussions:
+### Special Thanks to:
 
 * [Vivek Srikumar](https://svivek.com/) - University of Utah
 * [Austin Blodgett](https://www.austinblodgett.org/) - Georgetown University
 
-### Special Thanks to:
-
-* 
 
 ### This research was supported in part by:
 
