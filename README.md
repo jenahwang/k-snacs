@@ -5,7 +5,7 @@
 
 **File:** [little_prince_ko.tsv](./little_prince_ko.tsv)
 
-**DATA Version:**  
+**Data Version:**  
 * Current: 1.0
 * Compatible with K-SNACS Guidelines v1.0
 
