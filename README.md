@@ -3,7 +3,7 @@
 
 ## Dataset: Little Prince
 
-**File:** little_prince_ko.tsv
+**File:** [little_prince_ko.tsv](./little_prince_ko.tsv)
 
 **Column Description:**
 * <tt>doc_id</tt>: chapter number, starts at 1
