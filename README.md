@@ -1,9 +1,15 @@
 # K-SNACS Dataset and Guidelines
 **Korean Semantic Network of Adposition and Case Supersense**
 
-## Dataset: Little Prince
+## Dataset
 
 **File:** [little_prince_ko.tsv](./little_prince_ko.tsv)
+
+**Data Info:** 
+* Title: 어린 왕자 (erin wangca) "The Little Prince"
+* Author: Atoine de Saint-Exupéry 
+* Original Language: French (Le Petit Prince)
+* Genre: Childrens literature, Novella
 
 **Column Description:**
 * <tt>doc_id</tt>: chapter number, starts at 1
