@@ -6,7 +6,7 @@
 **File:** little_prince_ko.tsv
 
 **Column Description:**
-* doc_id: chapter number, starts at 1
+* <tt>doc_id</tt>: chapter number, starts at 1
 * sent_id: sentence id, starts at 1
 * token_id: token id, starts 1. Stacked postpositions receive token_id-N designation, where N is a sequencial value starting at 1 (as an example see doc_id 1, sent_id 14, token_id 1).
 * form: token raw form
