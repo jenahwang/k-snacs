@@ -21,26 +21,30 @@
 ## Paper
 Please cite the following when using this data:
 
+[Hwang et al., 2020](https://www.aclweb.org/anthology/2020.dmr-1.6/):
 > Hwang, Jena D., Hanwool Choe, Na-Rae Han, and Nathan Schneider. "K-SNACS: Annotating Korean adposition semantics." In Proceedings of the Second International Workshop on Designing Meaning Representations. 2020. 
 
-[Hwang et al., 2020](https://www.aclweb.org/anthology/2020.dmr-1.6/)
 
 
 ## K-SNACS Team
 
-### Key Collaborators
+### Key Collaborators:
 
 * [Jena Hwang](https://jdch00.github.io/) - Allen Institute for AI
 * [Na-Rae Han](http://www.pitt.edu/~naraehan/) - University Pittsburgh 
 * Hanwool Choe - Georgetown University
 * [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/) - Georgetown University
 
-### Many thanks to:
+### Topic Specific Discussions:
 
 * [Vivek Srikumar](https://svivek.com/) - University of Utah
 * [Austin Blodgett](https://www.austinblodgett.org/) - Georgetown University
 
+### Special Thanks to:
+
+* 
+
 ### This research was supported in part by:
 
-* NSF award IIS-1812778 and grant 2016375 from the
-United States–Israel Binational Science Foundation (BSF), Jerusalem, Israel.
+* NSF award IIS-1812778
+* BSF grant 2016375
