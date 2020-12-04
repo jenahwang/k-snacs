@@ -5,6 +5,10 @@
 
 **File:** [little_prince_ko.tsv](./little_prince_ko.tsv)
 
+**DATA Version:**  
+* Current: 1.0
+* Compatible with K-SNACS Guidelines v1.0
+
 **Data Info:** 
 * Title: 어린 왕자 (erin wangca) "The Little Prince"
 * Author: Atoine de Saint-Exupéry 
@@ -20,6 +24,9 @@
 * <tt>p</tt>: postposition
 * <tt>gold_scene</tt>: gold adjudicated scene role label
 * <tt>gold_function</tt>: gold adjudicated function label
+
+**License:**
+This dataset's supersense annotations are licensed under CC BY 4.0 ([Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by/4.0/legalcode)).
 
 ## K-SNACS Guidelines
 -coming-
