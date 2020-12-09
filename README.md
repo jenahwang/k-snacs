@@ -33,8 +33,10 @@ This dataset's supersense annotations are licensed under CC BY 4.0 ([Creative Co
 **File:** [k-snacs-guideline-appendix-v0.9.pdf](k-snacs-guideline-appendix-v0.9.pdf)
 
 **Guideline Version:**
-* Curret: 0.9
+* Current: 0.9
 * Compatible with [English SNACS v2.5](https://arxiv.org/abs/1704.02134)
+* Please note that this document is an appendix to the above English SNACS guidelines, including only language-specific information that merits further detailing. For full definitions of labels and use cases, please refer to [English guidelines](https://arxiv.org/abs/1704.02134).
+
 
 ## Paper
 Please cite the following when using this data:
