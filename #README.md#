@@ -10,8 +10,8 @@
 * Compatible with K-SNACS Guidelines v0.9
 
 **Data Info:** 
-* Title: ì–´ë¦° ì™•ì (erin wangca) "The Little Prince"
-* Author: Atoine de Saint-ExupÃ©ry 
+* Title: “¾î“¸° “¿Õ“ÀÚ (erin wangca) "The Little Prince"
+* Author: Atoine de Saint-Exupéry 
 * Original Language: French (Le Petit Prince)
 * Genre: Childrens literature, Novella
 
@@ -35,6 +35,7 @@ This dataset's supersense annotations are licensed under CC BY 4.0 ([Creative Co
 **Guideline Version:**
 * Curret: 0.9
 * Compatible with [English SNACS v2.5](https://arxiv.org/abs/1704.02134)
+* Please note that this document is an appendix to the above English SNACS guidelines, including only language-specific information that merits further detailing. For full definitions of labels and use cases, please refer to [English Guidelines](https://arxiv.org/abs/1704.02134)
 
 ## Paper
 Please cite the following when using this data:
